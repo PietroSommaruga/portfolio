@@ -1,0 +1,55 @@
+{
+  "experience": [
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAmVBMVEX///+m3eKEwMH//v2m3eDJ6e2h2+DT7vD//f7///yAvr+32NaRw8Df8fCVztCj3+DR6e/0+/7y/v6r2eGb3OGx3uS23eWv4eT6//+c2+Co3OTk9vit4eOi4uWc3t/s8/bN5ePE5+Sn2ubA4OOc39zw//q65OWy4Nqw2Nuo2tei3djg9vrg7/DI6em81dWM0dR9vcWXvr+q0c4YUharAAAEgUlEQVR4nO2diXabMBBFpUJlqUsoeMPYxlkdp3v7/x9XQeqmiY2sGFsMc979AKLr0SC9HEBCAAAAAAAAAAAAAAAAAAAgPKbrAZwf3fUAzky+4m54+U1EUdeDOB+ReDv6xLkTtb5SM9aG4kbNeBtezq5lydVQa5PfqDiO1VvB8UajtRbmSl1zNhRiHS8lX0Oj86tRIROuho89KB/haGibMF3fStaGd2tZFGwNcxOl61gWbGtop2h2H8snGBrmtgcLzobZvSqu2RrmxuTjmXwGJ8O8WibuS8naMLu5XRZ8DY3tweRpIeRomE6U3IGNYd2DtwVfQ9uDd+NSXfM1NLaCs+JlD/IxtIE32+zpQTaGVjB92NeDfAzF3UbKPT3IxNBEerXYXQf5GOpIzB8aepCFodF6vrmNORuK7EEVqlmx14baGKNXcdJcwL4b2hkqVvG+jQwfQzEfli/jEhdDLURkxNwuE1xnqRa5XSaatmosDC3zz+WQr6ERtgeT2N2DPTf8skmadmosDKP50LGR4WBoBon7Htp7Qz04fBvtvaFHE/bckH8NYQhD4sAQhvSBIQzpA0MY0geGMKQPDGFIHxjCkD4whCF9YAhD+sAQhvSBIQzpA0MY0geGMKQPDGFIHxjCkD4whCF9YAhD+sAQhvSBIQzpQ88wr9/69MLrevQMtTB+5Lnf9agZehfQ9/Pi1Ax1fvfRh68fv648r0jM0IhPM+XFbNDPPrSGngNKYPgXGMLw1MAQhrvAEIanBoYw3AWGMDw1MIThLgQNZ4cH02PDqDKMY4+PcxVq4HdJP0P7N4sgJ1rZsgwSb0O//8n5GsbfQtRQ5yadqpPWUHgaqnFmghyAGOlsXNa/6aEhbb6/9+H7xuf3kuU4E2EMrWM2ro5BOzCuRF688+PCZ0pUFQyjJ6qPUqfTw71YGb7xwsdQTdMo5MF5Pr14UkMrGPZgQCPSdTl0z9QTGg7LcRr86EOTTUbBDEeTgD34z1Cni1CGapHqDg6vNEYvwxiqpTYdnc6pFyNHL57IcDhadHfOsUkn5dkNy0ngu+gzQ51Vi8ZZDe1C30UP/lM01dLfMLYTGBZWMO2qB7fYpb9hi9rWsLqqmmbd6tVVHJfnMrSb7c4rKLbb8LMY2h6k8AyUMQ1hqqVhHZeCbrabaQhTbWtIpIIVDWGqpWHouORmb5hqZxg8LrmxYWq6E6baGHYSl9zsCVNtDDuJS272hKkWhh3FJTe7Yep4ww7jkpsXYepYw07jkpsXYepYw07jkhsbptaqtaHdbNPrwS3Pw9QxhkW9DpIVrPgvTB1laAW7VnDzf5g6xpBGXHLzFKaOMCS02W6mrmIdpl5lWNW9WJKJS27M3zD1WkMqgfcw2zD1WsOEVFxy8ximvA3f1YbE4pKbbZjyryHFuOSmClMyvvATrAwJxiU3VZiS/jWUMcW45KYOU/41VETjkhu9/vHT60GFnz+mfq/xUSPKfv/64MOv3xnVQOjGe/XO856+3ls98uX1qqnWop+zFAAAAAAAAAAAAAAAAAAIyh8153xLRiY9igAAAABJRU5ErkJggg==",
+      "role": "Frontend Developer",
+      "azienda": "Johannes | Experiential technology",
+      "duration": "2022 - 2023",
+      "competenze": [
+        "react",
+        "js",
+        "css",
+        "html",
+        "node",
+        "sass",
+        "tailwind",
+        "bootstrap"
+      ],
+      "description": [
+        "Sviluppo di progetti web da zero utilizzando React.js e Next.js per la creazione di interfacce utente responsive e scalabili.",
+        "Implementazione di funzionalità backend utilizzando tecnologie come MySQL e API web services per consentire la comunicazione tra il frontend e il database.",
+        "Collaborazione con team interfunzionali per garantire il coordinamento e la sinergia tra i membri del team e la gestione efficace delle risorse, con l'obiettivo di consegnare i progetti nei tempi previsti."
+      ]
+    },
+
+    {
+      "url": "https://yt3.googleusercontent.com/UXFC9eFKxjbOcUeEiIFqpywdInXJijIrh5bkfUMPlKhCLKaO6rrTfh5O5IzNTS_2Wap2yBk1J44=s900-c-k-c0x00ffffff-no-rj",
+      "role": "Full Stack Web developer",
+      "azienda": "Boolean",
+      "duration": "2021 - 2022",
+      "competenze": [
+        "vue",
+        "laravel",
+        "js",
+        "php",
+        "css",
+        "html",
+        "node",
+        "bootstrap"
+      ],
+      "description": [
+        "Replica di un applicazione web con l'utilizzo di Laravel che va a simulare le funzionalità di quelli che sono i principali social network di oggi.",
+        "Esercitazioni in team per abituarsi a lavorare su uno stesso progetto in contemporanea."
+      ]
+    },
+
+    {
+      "url": "https://yt3.googleusercontent.com/UXFC9eFKxjbOcUeEiIFqpywdInXJijIrh5bkfUMPlKhCLKaO6rrTfh5O5IzNTS_2Wap2yBk1J44=s900-c-k-c0x00ffffff-no-rj",
+      "role": "Admin Salesforce Trainee",
+      "azienda": "Boolean",
+      "duration": "2022",
+      "competenze": [""],
+      "description": ["fatto questo", "questo", "e quello"]
+    }
+  ]
+}
